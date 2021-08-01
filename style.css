@@ -1,0 +1,41 @@
+.heading{
+    font-family: 'Parisienne', cursive;
+    font-size: 45px;
+    -webkit-animation: 0.5s draw linear forwards;
+  animation: 0.5s draw linear forwards;
+
+}
+body{
+    background: url("flat-geometric-shapes-background_23-2148376161.jpg");
+}
+.container{
+    background-color: lightpink;
+    margin-left:10%;
+    margin-right: 10%;
+    margin-top:5%;
+    margin-bottom: 5%;
+}
+#camera{
+    border:2px dashed black;
+    width:350px;
+    height:300px;
+}
+.name_of_objects{
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 25px;;
+}
+p{
+    font-weight: bold;
+}
+label{
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 30px;
+
+}
+#ob{
+    font-family: 'Cabin Sketch', cursive;
+
+}
+button:hover{
+  background: indianred;
+}
